@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FunWithSensors</string>
+
+    <string name="light_text">Wartość sensora: %1$.2f</string>
+    <string name="proximity_text">Sensor Value: %1$.2f</string>
+    <string name="accelerometer_x_value">Wartość X: %1$.2f</string>
+    <string name="accelerometer_y_value">Wartość Y: %1$.2f</string>
+    <string name="accelerometer_z_value">Wartość Z: %1$.2f</string>
+</resources>
